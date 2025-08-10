@@ -1,2 +1,2 @@
 # PROJECTS
-AMAZON CLONE USING HTML CSS
+showing my projects
